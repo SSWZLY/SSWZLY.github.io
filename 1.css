@@ -1,0 +1,28 @@
+*{
+  margin: 0 0;
+  padding: 0 0;
+}
+body{
+  background: url(img3/背景图.png) top center no-repeat;
+}
+.logo img{
+  margin-top: 110px;
+  margin-left:900px;
+}
+.logo img:hover{
+  transform: rotate(360deg);
+  transition: 1s;
+}
+.logo p{
+  margin-left: 930px;
+  margin-top: 10px;
+}
+.logo a{
+  font-size: 45px;
+  color: #0e4f8d;
+  text-decoration: none;
+}
+.logo a:hover{
+  color: #89b4dd;
+  text-decoration: none;
+}
